@@ -6,27 +6,27 @@
 
 1. Admin Section:
 
-# User Management : 
+--> User Management : 
 The Admin section allows administrators to manage user accounts, including creating, editing, and deleting accounts for teachers and students.
-# Student Management: 
+--> Student Management: 
 Administrators can oversee student information, including personal details, academic records, and enrollment status. They can add new students, update existing records, and track student progress.
-# Attendance Management System : 
+--> Attendance Management System : 
 The Admin section provides tools to manage student attendance, allowing administrators to view attendance reports, track absences, and generate attendance summaries.
 
 2. Teacher Section :
 
-# Class Management : 
+--> Class Management : 
 Teachers can create and manage class schedules, assign courses to students, and organize educational materials within the application.
-# Attendance Management : 
+--> Attendance Management : 
 Teachers can take attendance for their classes, mark students present or absent, and view attendance reports for individual students or entire classes.
 
 3. Student Section :
 
-# Personal Dashboard :
+--> Personal Dashboard :
 Students have access to a personalized dashboard where they can view their class schedules, upcoming assignments, and grades.
-# Attendance Tracking: 
+--> Attendance Tracking: 
 Students can view their attendance records, including dates of attendance and any absences recorded by their teachers.
-# Assignment Submission: 
+--> Assignment Submission: 
 The Student section allows students to submit assignments digitally, track submission deadlines, and receive feedback from their teachers.
 </p>
 
