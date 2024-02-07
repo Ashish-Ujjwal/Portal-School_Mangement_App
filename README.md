@@ -32,7 +32,7 @@ Overall, the Portal-School_Management_App Project in Django offers a comprehensi
 
 <img src="https://github.com/Ashish-Ujjwal/Portal-School_Mangement_App/blob/main/Image/Screenshot%202024-02-07%20153622.png" alt="project-screenshot" width="1000" height="500/">
 
-<img src="https://github.com/Ashish-Ujjwal/Portal-School_Mangement_App/blob/main/Image/Screenshot%202024-02-07%20174624.png" alt="project-screenshot" width="500" height="500/">
+<!-- <img src="https://github.com/Ashish-Ujjwal/Portal-School_Mangement_App/blob/main/Image/Screenshot%202024-02-07%20174624.png" alt="project-screenshot" width="500" height="500/"> -->
 
 <img src="https://github.com/Ashish-Ujjwal/Portal-School_Mangement_App/blob/main/Image/Screenshot%202024-02-07%20174653.png" alt="project-screenshot" width="1000" height="500/">
 
